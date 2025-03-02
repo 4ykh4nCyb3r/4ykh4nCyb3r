@@ -1,1 +1,1 @@
-"This blog is dedicated to sharing my experiences and knowledge in cybersecurity. Here, I'll post detailed walkthroughs of rooted machines, insights from my coursework, and practical tips on penetration testing, ethical hacking, and defensive security. Whether you're a beginner or an experienced practitioner, join me as I explore the fascinating world of cybersecurity and document my progress along the way. Let's learn, hack, and secure together!" 
+Hello World
